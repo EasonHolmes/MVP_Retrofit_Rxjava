@@ -16,7 +16,7 @@ import okhttp3.ResponseBody;
  */
 public class Utils {
 
-    //http://www.jianshu.com/p/92bb85fc07e8
+    //参考自http://www.jianshu.com/p/92bb85fc07e8
     public static boolean writeResponseBodyToDisk(ResponseBody body) {
         try {
             // todo change the file location/name according to your needs
